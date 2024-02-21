@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color1">#015eff</color>
+    <color name="color2">#191727</color>
+    <color name="author_color">#858493</color>
+    <color name="book_name_color">#0b0d13</color>
+</resources>

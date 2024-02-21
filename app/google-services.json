@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070451260020",
+    "project_id": "bookapp-14a68",
+    "storage_bucket": "bookapp-14a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070451260020:android:5a8a8318698318cc9e6f21",
+        "android_client_info": {
+          "package_name": "com.sudo_pacman.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJ49hZZqb0SddxVHVgaIn5SrFUFWhF64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
